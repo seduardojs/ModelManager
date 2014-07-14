@@ -1,0 +1,17 @@
+Objetivo:
+Mantener el modelo de base de datos sincronizado con el metamodelo usado por la aplicacion
+
+Funciones:
+Modelo:
+Leer el modelo de una ontologia
+Comparar el modelo contra la base de datos
+Actualizar el modelo ( solo se crean los campos nuevos )
+
+Validaciones:
+Interpretar las reglas de negocio asociadas al modelo de datos
+
+Servicios:
+Crear servicios groovy que hagan:
+Validaciones asociadas al modelo de datos
+
+
